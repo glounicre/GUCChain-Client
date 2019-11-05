@@ -1,1 +1,2 @@
 # GUCChain-Client
+GUCChain Client
